@@ -1,3 +1,4 @@
+package exe1;
 import java.util.Scanner;
 
 public class App {
